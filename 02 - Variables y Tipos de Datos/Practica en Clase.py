@@ -1,12 +1,11 @@
-mi_variable = 12
-print(mi_variable)
+a = 5
+print(5)
 
-mi_variable2 = 'dario'
-print(mi_variable2)
+nombre = 'Rudy'
+print(nombre)
 
-mi_complejo = 5 + 7j
-print(mi_complejo)
+complejo = 3 + 4j
+print(complejo)
 
-
-mi_numero = input('Ingrese un valor')
-print('el valor ingresado fue', mi_numero)
+mi_numero = input("Put your damn number please")
+print(mi_numero)
