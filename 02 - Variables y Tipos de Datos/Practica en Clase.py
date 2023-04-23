@@ -1,7 +1,7 @@
 a = 5
 print(5)
 
-nombre = 'Rudy'
+nombre = 'Rud'
 print(nombre)
 
 complejo = 3 + 4j
